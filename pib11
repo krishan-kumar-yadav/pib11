@@ -1,0 +1,15 @@
+# Customer code is a mandatory 3-character code, which must be unique within the GCP project.
+- customer_code: p11
+
+  # Customer name is a mandatory free-form string. This value must also be used for the customer_name label.
+  customer_name: pib11
+
+  # Customer labels provide customer-specific labels to resources created for the customer.
+  customer_label:
+    # Customer ID is a mandatory string, which is the value of [field name] in CRM.
+    customer_id: pib11
+    # Customer name is a mandatory free-form string. This value must also be used for the customer_name above.
+    customer_name1: pib11
+    #customer_name2: pib8
+    #customer_name3: pib11
+    #product_code: emerge
