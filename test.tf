@@ -8,3 +8,4 @@ commit
 new add
 new file
 test
+add
