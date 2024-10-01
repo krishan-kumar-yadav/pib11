@@ -5,3 +5,4 @@ add
 new commit
 test
 commit
+new add
