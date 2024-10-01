@@ -6,4 +6,3 @@ new commit
 test
 commit
 new add
-add file
