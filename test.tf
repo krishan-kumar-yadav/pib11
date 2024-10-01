@@ -4,3 +4,4 @@ test rsync add
 add
 new commit
 test
+commit
