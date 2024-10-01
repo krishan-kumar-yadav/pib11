@@ -7,3 +7,4 @@ test
 commit
 new add
 new file
+test
