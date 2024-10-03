@@ -7,4 +7,4 @@ new file added
 test
 add
 test for script 4 in test.tf
-test again
+test
