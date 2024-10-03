@@ -6,7 +6,7 @@ SOURCE_REPO_URL="https://github.com/krishan-kumar-yadav/pib11.git"  # Replace wi
 
 DEST_REPO_URL="https://github.com/krishan-kumar-yadav/pibsync.git"  # Replace with your destination repo URL
 
-WORK_DIR="C:\Users\YadavK\Desktop\landisgyr\ot\pib11\pib11"  # Temporary working directory
+WORK_DIR="C:\Users\YadavK\Desktop\landisgyr\ot\pib11"  # Temporary working directory
 
 SOURCE_DIR="$WORK_DIR"  # Directory for source repository
 
@@ -73,7 +73,7 @@ done
 
 # Commit and push changes to the destination repository
 
-cd "$DEST_DIR" || exit
+cd "$DEST_DIR\pib11" || exit
 
 git add .
 
