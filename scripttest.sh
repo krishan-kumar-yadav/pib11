@@ -73,7 +73,7 @@ done
 
 # Commit and push changes to the destination repository
 
-cd "$DEST_DIR\pib11" || exit
+cd "$DEST_DIR\pibsync" || exit
 
 git add .
 
