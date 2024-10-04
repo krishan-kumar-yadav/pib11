@@ -50,6 +50,12 @@ else
   git clone --branch "$BRANCH" "$DEST_REPO_URL" "$DEST_DIR"
 fi
 
+echo -e "\n#################################### Syncing Remote to Local Repository... ####################################\n"
+
+git pull origin main
+
+echo -e "\n[ Task Done ]\n"
+
 # Copy the file to the destination repository
 
 echo -e "\n#################################### Copying file from source to destination... ####################################\n"
