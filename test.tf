@@ -8,3 +8,4 @@ test
 add
 test for script 4 in test.tf
 test
+test again
