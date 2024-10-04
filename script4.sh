@@ -49,7 +49,7 @@ if [ -d "$DEST_DIR" ]; then
 else
   git clone --branch "$BRANCH" "$DEST_REPO_URL" "$DEST_DIR"
 fi
-#
+
 # Copy the file to the destination repository
 
 echo -e "\n#################################### Copying file from source to destination... ####################################\n"
