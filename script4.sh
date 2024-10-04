@@ -19,6 +19,7 @@ LOCAL_DEST="$WORK_DIR\pibsync"
 FILES_TO_SYNC=(
     "pib11"
     "test.tf"
+    "script4.sh"
     )
 
 BRANCH="main"  # Branch to sync
