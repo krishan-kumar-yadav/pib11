@@ -1,4 +1,5 @@
 This is test file
 test for dir sync
 test rsync add
-Test again
+test add new
+test add new
